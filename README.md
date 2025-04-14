@@ -18,5 +18,7 @@ Integração com Google Maps ao clicar no endereço.
 Melhorias de usabilidade, como área de mensagem ajustada para facilitar textos de 2 a 3 linhas e carregamento otimizado de imagens para resposta rápida de setas interativas.
 
 Adição de favicon e atenção aos detalhes de navegação e performance para uma experiência completa.
-    - [LINK POJETO](https://nataliaso23.github.io/layout-dia/)
-    - [LINK DEMONSTRAÇÃO](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=0-1&p=f&t=v0PzlGVFsEPzspXQ-0)
+
+  [LINK POJETO](https://nataliaso23.github.io/layout-dia/)
+  
+  [LINK DEMONSTRAÇÃO](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=0-1&p=f&t=v0PzlGVFsEPzspXQ-0)
